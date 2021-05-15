@@ -8,4 +8,4 @@
 
 > Type 3: callable Statement ("https://github.com/luringdeveloper/JDBC-Notes/tree/master/jdbc/src/jdbc/callabale_statement/executedupdateAndexecutequery")
 
-    and also you also get the notes of SQL query and how to make connection in jdbc ("https://github.com/luringdeveloper/JDBC-  Notes/blob/master/jdbc/SomeQueryToKnowHowToUseJDBC.txt")  
+    and also you also get the notes of SQL query and how to make connection in jdbc ("https://github.com/luringdeveloper/JDBC-Notes/blob/master/jdbc/SomeQueryToKnowHowToUseJDBC.txt")  
